@@ -19,9 +19,7 @@
   - Save finalized designs and customer data
   - Ready for order processing and delivery tracking
 
-## 📸 Screenshots
 
-*(Add screenshots here if available)*
 
 ## 💻 Built With
 
